@@ -20,4 +20,4 @@
 /** @var WilddogAuthVersionString
     @brief WilddogAuth 版本号.
  */
-extern const unsigned char* const WilddogAuthVersionString;
+extern const unsigned char WilddogAuthVersionString[];
