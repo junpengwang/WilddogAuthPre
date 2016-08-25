@@ -12,7 +12,7 @@
     "Wilddog": "ceo@wilddog.com"
   },
   "source": {
-    "git": "https://cdn.wilddog.com/ios/client/Wilddog.framework-1.1.0.zip",
+    "git": "https://github.com/junpengwang/WilddogAuthPre.git",
     "tag": "1.0.0"
   },
   "platforms": {
