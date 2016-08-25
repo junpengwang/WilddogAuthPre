@@ -23,9 +23,9 @@
     "*.h"
   ],
   "public_header_files": "*.h",
-  "preserve_paths": "WilddogAuth.framework/WilddogAuth",
+  "preserve_paths": "WilddogAuthPre.framework/WilddogAuth",
   "vendored_libraries": "libWilddogAuthStatic.a",
-  "prepare_command": "touch Empty.m && cp WilddogAuth.framework/WilddogAuth libWilddogAuthStatic.a && cp WilddogAuth.framework/Headers/* .",
+  "prepare_command": "touch Empty.m && cp WilddogAuthPre.framework/WilddogAuthPre libWilddogAuthStatic.a && cp WilddogAuthPre.framework/Headers/* .",
   "requires_arc": true,
   "xcconfig": {
     "OTHER_LDFLAGS": "-ObjC"
